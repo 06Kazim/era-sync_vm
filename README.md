@@ -1,4 +1,4 @@
-# CPU/GPU Based Prover for zkSync Era
+# CPU/GPU Based Prover for zkSync EraSyncs common workflows from the template into v1.3.2
 
 [![Logo](eraLogo.png)](https://zksync.io/)
 
